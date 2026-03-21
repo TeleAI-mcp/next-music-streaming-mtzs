@@ -1,2 +1,3 @@
-# next-music-streaming-mtzs
-A music streaming service for modern development workflows
+# Next Music Streaming Mtzs
+
+A music streaming service for modern development workflows.
